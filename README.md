@@ -1,7 +1,9 @@
 # Deploying AWS Lambda Go functions with Netlify
 
-This is an example of how to deploy Go functions with Netlify on AWS Lambda.
+This is a testing repo for me to try out GoLang lambda functions on Netlify.
 
-You can find the code in [main.go](main.go).
+I don't know what I am doing. I don't know Go at all.
 
-Read more about Go functions support on Netlify in [our documentation](https://www.netlify.com/docs/lambda-functions).
+Though it would be a nice opportunity for me to learn a bit of Golang syntax and concepts.
+
+So here we go.
